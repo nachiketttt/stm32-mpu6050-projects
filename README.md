@@ -7,8 +7,8 @@ STM32F446RE based projects using the MPU6050 IMU sensor, built with HAL drivers 
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [PWM LED Control](./PWM_LED_Control/) | Tilt-based dual channel PWM control using accelerometer + Kalman filter | ✅ Complete |
-| [PWM LED Control — FreeRTOS](./PWM_LED_Control_RTOS/) | Same project implemented with FreeRTOS tasks | 🚧 In Progress |
+| PWM LED Control | Tilt-based dual channel PWM control using accelerometer + Kalman filter | ✅ Complete |
+| PWM LED Control FreeRTOS | Same project implemented with FreeRTOS tasks | 🚧 In Progress |
 
 
 ## Hardware
