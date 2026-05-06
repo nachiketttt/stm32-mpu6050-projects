@@ -1,6 +1,6 @@
 # STM32F446RE based MPU6050 Projects
 
-> STM32F446RE based projects using the MPU6050 IMU sensor, built with HAL drivers and custom firmware. Part of the MCU2 course by FastBit Embedded Brain Academy.
+STM32F446RE based projects using the MPU6050 IMU sensor, built with HAL drivers and custom firmware. Part of the MCU2 course by FastBit Embedded Brain Academy.
 
 
 ## Projects
